@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-color: #0D0C22;
+  color: white;
+}
+.italic-AQ{
+  font-style: italic;
+}
